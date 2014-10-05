@@ -1,0 +1,9 @@
+LICENSE Cameron Baker 
+
+I allow anyone who is not going to use this in enterprise to use this and edit it at there will.
+
+This code is owned by Cameron Baker. 
+
+Certain parts of this code was made by other vendors and they will tagged in the script if that is the case.
+
+signed:Cameron Baker
