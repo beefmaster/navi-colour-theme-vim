@@ -1,3 +1,5 @@
+![alt tag](https://raw.github.com/beefmaster/navi-colour-theme-vim/master/pictures/navilogo.jpeg)
+
 This project changes the colours of the vim text editor to ones that resemble the colours of the exports team NaVi.
 
 
