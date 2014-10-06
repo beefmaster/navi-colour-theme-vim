@@ -14,7 +14,8 @@ Installation
 
 I moved to vim-plug a while ago and never looked back. Anyway, you can install Gotham with whatever package manager you use. For example:
 
-#THIS WAS COPIED FROM ANTOHER REPO AND WILL BE CHANGED SOON
+#INSTILATION
+<H3>THIS WAS COPIED FROM ANTOHER REPO AND WILL BE CHANGED SOON</H3>
 
 " vim-plug
 Plug 'whatyouhide/vim-gotham'
